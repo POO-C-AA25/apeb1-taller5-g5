@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Problema_5_Evento {
+ class Problema_5_Evento {
     public String tipoEvento;
     public String fechaEvento;
     public ArrayList<String> paisesInvolucrados;

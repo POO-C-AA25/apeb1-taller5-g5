@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Problema_5_Conflicto {
+ class Problema_5_Conflicto {
     public String nombre;
     public String etapaActual;
     public ArrayList<String> paises;

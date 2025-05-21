@@ -1,4 +1,4 @@
-public class Problema_4_Alerta {
+ class Problema_4_Alerta {
     public String fechaAlerta;
     public String descripcion;
 

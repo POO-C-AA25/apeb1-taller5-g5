@@ -1,4 +1,4 @@
-public class Problema_3_Departamento {
+ class Problema_3_Departamento {
     public String nombre;
     public int numEmpleados;
     public double produccionAnual;

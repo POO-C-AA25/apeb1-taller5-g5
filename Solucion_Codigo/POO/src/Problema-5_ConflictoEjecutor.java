@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Problema_5_ConflictoEjecutor {
+class Problema_5_ConflictoEjecutor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Problema_5_ConflictoManager mgr = new Problema_5_ConflictoManager();

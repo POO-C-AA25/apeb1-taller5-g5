@@ -1,4 +1,4 @@
-public class Problema_4_Implicado {
+ class Problema_4_Implicado {
     public String tipoDelito, nombre, nacionalidad, ocupacion, descripcion;
     public int edad;
 

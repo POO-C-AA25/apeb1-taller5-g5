@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problema_3_EmpresaEjecutor {
+ class Problema_3_EmpresaEjecutor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nombre de la Empresa: ");

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class Problema_5_ConflictoManager {
+ class Problema_5_ConflictoManager {
     public ArrayList<Problema_5_Conflicto> conflictos = new ArrayList<>();
 
     public void registrarConflicto(Problema_5_Conflicto c) {

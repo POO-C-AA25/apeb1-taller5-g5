@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Problema_4_FiscaliaEjecutor {
+ class Problema_4_FiscaliaEjecutor {
     public static Problema_4_CasoCorrupcion buscarCaso(ArrayList<Problema_4_CasoCorrupcion> lista, String id) {
         for (int i = 0; i < lista.size(); i++) {
             if (lista.get(i).idCaso.equals(id)) {

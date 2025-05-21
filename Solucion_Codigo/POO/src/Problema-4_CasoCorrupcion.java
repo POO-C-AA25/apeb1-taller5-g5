@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Problema_4_CasoCorrupcion {
+ class Problema_4_CasoCorrupcion {
     public String idCaso;
     public String nombre;
     public String fechaInicio;

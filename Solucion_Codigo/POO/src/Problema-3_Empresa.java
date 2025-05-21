@@ -1,4 +1,4 @@
-public class Problema_3_Empresa {
+ class Problema_3_Empresa {
     public String nombre;
     public String directorio;
     public Problema_3_Departamento[] departamentos;
